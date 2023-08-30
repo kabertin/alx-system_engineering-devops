@@ -8,3 +8,4 @@ Our project concern is to develop some scripts, so this document is for describi
 	- A script that changes working directory to the user's home directory
 	- A script that Displays a current directory contents in a long format
 	- A script that Displays the current directory content including the hidden ones
+	- A script that Displays a a long format, with user and group ID's numerically including hidden files. here we are displaying a directory content
