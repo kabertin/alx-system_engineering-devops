@@ -10,3 +10,4 @@ Our project concern is to develop some scripts, so this document is for describi
 	- A script that Displays the current directory content including the hidden ones
 	- A script that Displays a a long format, with user and group ID's numerically including hidden files. here we are displaying a directory content
 	- A script that creates a directory named my_first_directory in the /tmp/ directory
+	- A script that move a file named Betty from /tmp to /tmp/my_first_directory
