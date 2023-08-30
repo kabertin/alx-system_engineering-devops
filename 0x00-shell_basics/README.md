@@ -7,3 +7,4 @@ Our project concern is to develop some scripts, so this document is for describi
 	- A script that displays the contents list of my current directory
 	- A script that changes working directory to the user's home directory
 	- A script that Displays a current directory contents in a long format
+	- A script that Displays the current directory content including the hidden ones
