@@ -12,3 +12,4 @@ Our project concern is to develop some scripts, so this document is for describi
 	- A script that creates a directory named my_first_directory in the /tmp/ directory
 	- A script that move a file named Betty from /tmp to /tmp/my_first_directory
 	- A script that delete named betty from /tmp/my_first_directory
+	- A script that delete a repository /my_first_directory which inside a /tmp directory
