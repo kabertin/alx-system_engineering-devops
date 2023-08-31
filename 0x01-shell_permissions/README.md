@@ -18,3 +18,4 @@ Other users: all the permissions. (./8-James_Bond.sh)
 	-  script that sets the mode of the file hello to this:
 
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello. (./9-John_Doe.sh)
+	- Write a script that sets the mode of the file hello the same as olleh’s mode. (./10-mirror_permissions.sh)
